@@ -36,7 +36,7 @@ This code use the MVC Architecture.
 
 ## Screenshots de l'app
 
-![Screenshots de l'app Baluchon](Assets.xcassets/LeBaluchon.png)
+![Screenshots de l'app Baluchon](ScreenShot/LeBaluchon.png)
 
 ## Credits
 José DE GUIGNE - 2021
