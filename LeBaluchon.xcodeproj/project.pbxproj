@@ -120,6 +120,9 @@
 			children = (
 				6510D4FE273B259E00AA7407 /* LeBaluchon */,
 				6510D515273B25A100AA7407 /* LeBaluchonTests */,
+				653FC22927708B1800D1C752 /* Readme.md */,
+				6510D508273B25A100AA7407 /* Assets.xcassets */,
+				6510D50D273B25A100AA7407 /* Info.plist */,
 				6510D4FD273B259E00AA7407 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -142,9 +145,6 @@
 				65AA53B3274684CA003152C5 /* Extensions */,
 				6510D4FF273B259E00AA7407 /* AppDelegate.swift */,
 				6510D501273B259E00AA7407 /* SceneDelegate.swift */,
-				6510D508273B25A100AA7407 /* Assets.xcassets */,
-				6510D50D273B25A100AA7407 /* Info.plist */,
-				653FC22927708B1800D1C752 /* Readme.md */,
 			);
 			path = LeBaluchon;
 			sourceTree = "<group>";
